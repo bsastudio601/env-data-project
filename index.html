@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ESP32 Data</title>
+</head>
+<body>
+    <h1>Data from ESP32</h1>
+    <pre id="data"></pre>
+    <script>
+        async function fetchData() {
+            const response = await fetch('data.txt');
+            const text = await response.text();
+            document.getElementById('data').innerText = text;
+        }
+        fetchData();
+        setInterval(fetchData, 60000); // Refresh data every minute
+    </script>
+</body>
+</html>
