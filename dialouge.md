@@ -1,3 +1,5 @@
+# Characters
+
 Tithi: 16 years old (main character)
 
 runaway living in this new quite town. recently she opened a flower shop to sustain herself.
@@ -120,7 +122,9 @@ she likes lilies [later goes to our shop to buy some]
 stalker : just and weirlg looking guy around in his 30s
 
 
-Day1 [I will just show the date insted of saying day 1]
+# Dialouges
+
+Day1 [Will just show an alarm ringing]
 
 (you wake up at the morning. go to the bathroom. make your breakfast and climb down the stair and meet the landlord)
 
@@ -342,8 +346,6 @@ Tithi : ...I'll see. Thanks.
 {fades black and you are in your shop closing the shop}
 *you leave to get home but decided to drop by the park to see whats up*
 
-
-# Choice 
 
 (if you decide to visit the park)
 
