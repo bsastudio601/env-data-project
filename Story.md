@@ -191,7 +191,6 @@ Almost like ever your hair has freedom.
 
 You eat Rokeya’s food while staring at the full moon, it made you remember something that you didn’t know you would remember.
 
-
 Although you wanted to stay with yourself for a bit, the fatigue didn’t let you
 
 You fall asleep along the Luna.
