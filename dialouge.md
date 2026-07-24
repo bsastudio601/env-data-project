@@ -349,7 +349,7 @@ Tithi : ...I'll see. Thanks.
 
 (if you decide to visit the park)
 
-you see the stranger from earlier quitely standing on the shore of the lake.
+you see the stranger from earlier quitely standing on the other side of the lake.
 
 you also see a cat and decide to pet it.
 
@@ -361,6 +361,130 @@ there is some bench you can sit!
 (you go to the cafe on the side of the park)
 
 *you enter the cafe*
+
+Dorothy : Oh?
+
+Tithi : ... *confused what to say next*
+
+Dorothy : I was starting to think you'd forgotten about my free coffee.
+
+Tithi : ...I've been busy.
+
+Dorothy : well then what can i get you?
+
+Tithi : *You get a choice to choose between coffee, juice , tea.*
+
+dorothy : Here you go.
+
+*a cup apperan on you table and dorothy sits in front of you*
+
+dorothy : How's the flower shop doing?
+
+Tithi : ...A few customers.
+
+dorothy : That's not bad.
+
+Tithi : I guess...
+
+Dorothy : My parents handed this café over to me last year.
+Dorothy : I thought running it would be easy.
+Dorothy : I was very wrong.
+
+Tithi : ... 
+
+Dorothy : It took me months to stop worrying every time the café was empty
+
+Tithi : ...Looks busy now.
+
+Dorothy : Yeah. The regulars kept coming back.
+
+Dorothy : You know...
+Dorothy : We're actually kind of similar.
+
+Tithi : ...?
+
+Dorothy : You just started your flower shop. And I only started running this café by myself last year.
+
+Dorothy : I think we're both still figuring things out.
+
+Tithi: "...Maybe."
+
+Dorothy : ...Can I ask you something?
+
+Tithi : ...What?
+
+Dorothy : How old are you?
+
+Tithi : ...Sixteen.
+
+Dorothy : ...Sixteen?
+
+Tithi : ...Yeah.
+
+Dorothy : I was sixteen yesterday.
+
+Tithi : ...
+
+Dorothy : ...That's pretty impressive.
+
+Tithi : ...It pays the bills.
+
+Dorothy : ...Fair enough.
+
+Dorothy : ....
+ 
+Dorothy : ...
+
+Dorothy : So...
+
+dorothy : How was it?
+
+Tithi : ...Good
+
+Dorothy : I'm glad. ...Come by whenever you feel like it.No need to wait for an invitation.
+
+Tithi : ...Thanks for the coffee.
+
+Dorothy : Take care, Tithi.
+
+(no further incident but you returned home safely but rokeya is waiting for you)
+
+Rokeya : Oh, Tithi.
+
+Rokeya : I was beginning to worry.
+
+Tithi :...Sorry.
+
+Rokeya : You don't have to apologize.
+
+Rokeya : I just wasn't used to you coming home this late.
+
+Tithi : ...I stopped by the café.
+
+Rokeya : Dorothy's?
+
+Rokeya: She's a good girl.
+
+Rokeya : I'm glad you're finally getting to know people.
+
+Tithi : ...
+
+Rokeya : Sleep well, dear.
+
+Tithi : ...Good night.
+
+(its the next da as usual she wakes up and goes to the shop. she also slips a small knife with her from the kitchen because its winter and the days are getting shorter and she is getting worried about the stranger she is seeing for the past week)
+
+//// here is what the next dialouge is gonna be about. in here she basically gets followed by the stranger for a bit. 
+maybe arnob comes to her shop this day?
+she doesnt think of it that much.
+getting back home rokeya askes her if anything is wrong but she hesitates to tell her the incident.
+//// the next day while returning home she visites the park in evening after hearing the cat meowing from the alley think it was the cat she was seeing in the part she tries to find it going a bit inside the alley. suddenly the stranger appears behind her closing into her {insert dialouge here} crahsing out she pulls out the knife she is keeping with herself {insert dialouge} and strikes him she is now drenched in blood. she carefully goes to home being careful to not let anyone see her. heaching her room she break down and goes to roof top then suddenly her phone rings and it fades to black. [eend of chapter 1]  
+
+// the chapter 2 is gonna start like arnob calls her wanting to hand out with her
+
+
+
 
 
 
