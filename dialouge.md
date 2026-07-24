@@ -17,7 +17,7 @@ Reads old text messages before sleeping.
 Doesn't look people in the eyes very often and dont know how to properly greet some one.
 
 Likes
-Rainy mornings.
+Sunsets.
 Water Lilies.
 Quiet places.
 likes coffee.
@@ -341,6 +341,24 @@ Tithi : ...I'll see. Thanks.
 *you leave the store*
 {fades black and you are in your shop closing the shop}
 *you leave to get home but decided to drop by the park to see whats up*
+
+
+# Choice 
+
+(if you decide to visit the park)
+
+you see the stranger from earlier quitely standing on the shore of the lake.
+
+you also see a cat and decide to pet it.
+
+there is some bench you can sit!
+
+
+(if you dont visit nothing happens)
+
+(you go to the cafe on the side of the park)
+
+*you enter the cafe*
 
 
 
