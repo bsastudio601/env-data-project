@@ -1,25 +1,123 @@
-Main character : Tithi (16 years old girl) [moved in this city after running away from her abusive home after killing her family she is quite also you have a phone for texting]
+Tithi: 16 years old (main character)
+
+runaway living in this new quite town. recently she opened a flower shop to sustain herself.
+
+Personality:
+Quiet.
+Observant.
+Doesn't like to share much.
+Doesn't start conversations.
+Doesn't like accepting help from others.
+Loves animals more than anything.
+
+Habits
+Always wakes up early.
+Waters the flowers before opening the shop.
+Reads old text messages before sleeping.
+Doesn't look people in the eyes very often and dont know how to properly greet some one.
+
+Likes
+Rainy mornings.
+Water Lilies.
+Quiet places.
+likes coffee.
+Listening to music
+Collecting feathers she finds in the park.
+
+Dislikes
+Loud shouting.
+Crowded places.
+Fireworks.
+Questions about her family.
 
 
-BF/Date : Arnob (17 years old boy) (supportive he seems to like you)
+
+Rokeya: middle aged like 45 years old women (landlord/receptionist)
+
+She lives alone after the death of her husband and her daughter lives abroad thats why she cares about tithi she sees us as her own daughter.
 
 
-Landlord/receptionist : Rokeya (middle aged women) [a trusted character who gave us shelter in hard time]
+Personality
+Kind.
+Calm.
+Motherly.
+Notices everything.
+
+Habits
+Waters plants every morning.
+Sits behind the front desk knitting.
+Makes tea every afternoon.
+Every evening she waits outside the apartment until every tenant comes home.
+Then she locks the front door.
+
+Likes
+Gardening.
+Hearing about her tenants' day.
 
 
-Grocery Shopkeeper/ customer 3 : Farhan (24 years old man) [shopkeeper he is a bit self centered but helpful]
+Dipon : 18 years old (your regular customer)
+
+he becomes our frequent customer after discovering our shop. he recently moved into the town too .He came to the town because he finally got accepted into a college nearby and is trying to become independent.
+
+Personality
+Very social.
+Friendly with everybody.
+Loves making silly compliments.
+
+Habits
+Buys one flower every Friday.
+Waves to almost everyone in town.
+Talks too much.
+
+Likes
+Photography.
+Sunflowers.
+Festivals.
+
+Farhan : 24 years old man [shopkeeper in the shop close to hour apartment]
+
+runs the small shop not far from out home. his business ig growing as its the only shop in that street.
+
+Personality
+Practical.
+Busy.
+Can sound blunt.
+Reliable.
+
+Habits
+Writes inventory in a notebook.
+Always checking prices.
+Rarely leaves his shop.
+
+Likes
+Cooking.
+Dreams of expanding his grocery into a proper supermarket someday.
+
+Dorothy: 23 years old (runs the cafe)
+
+she becomes like an older sister character to us.she runs a cafe which was recetnly passed down from her parents to her. she also has experience with relationships.She wants her café to become the place where everyone in town gathers.
+
+Personality:
+
+Energetic but not too much sha can adapt.
+Caring.
+seems to care about our past.
+Surprisingly mature.
+
+Habit:
+Always remembers customers' favorite drinks.
+Plays old songs in the café.
+Gives free cookies to children.
+forgets to eat when she's busy.
+
+Likes:
+She prefers plain water most of the time
+Rain.
+Reading mystery novels.
+she likes lilies [later goes to our shop to buy some]
 
 
-Flowershop customer 1 : Dipon (18 years old boy) [a guy who is frienly with every one and loves to compliment them is fun ways]
-
-
-Flowershop customer 2/Farhand's GF : nila (22 years old women) [even though she is old she is talkative and energetic]
-
-
-Cafe Shopkeeper : Dorothy (23 years old women) [Older sister like character she also doesnt seems to mind you harsh way of talking]
-
-
-
+stalker : just and weirlg looking guy around in his 30s
 
 
 Day1 [I will just show the date insted of saying day 1]
@@ -27,302 +125,223 @@ Day1 [I will just show the date insted of saying day 1]
 (you wake up at the morning. go to the bathroom. make your breakfast and climb down the stair and meet the landlord)
 
 
-Rokeya : Oh hey dear tithi, You going to your shop early this? is everything alright?
+Rokeya : Morning, Tithi.
 
-Tithi : yes, im alright... see you later.
+*Tithi stops*
 
-Rokeya:alright then, take care.
+Tithi : Morning
+
+Rokeya : I was wondering if you'd oversleep today.
+
+*looks surprised*
+
+Tithi : ...How did you know?.
+
+Rokeya:It's your first day opening the flower shop. I'd be nervous too.
+
+*Rokeya smiles a little*
+
+Tithi : ...Maybe.
+
+Rokeya : Well, congratulations.
+
+*gives a tiny watering can keychain.*
+
+Rokeya: I was going to wait until tonight, but... here. For good luck.
+
+Tithi : ...Thank you.
+
+Rokeya : Now go. see you in evening. And remember to eat.
+
+Tithi : ... I'll try. see you later.
 
 
 
-(A walk to the park while in park she meets a cat without any further incident and opens the shop for today) {if player goes to the shop right now it says "the chop is closed"}{if the player goes to the cafe the manager tells "what can i get for you?" but the player in voice says "you are thirsty for any drink right now"}
+(you walk to the shop) {if the player goes to the shop you can see the shopkeeper outside receiving deliveries with boxes laying around} {if you try to go to the cafe it says "the cafe is closed"}
 
 
-(customer 1 stops while walking by the shop and comes to the shop to chat)
 
+(Dipon stops while walking by the shop and comes to the shop to chat)
 
-Dipon : Lovely flowers! Are you new here ?
+Dipon : Woah... this place smells amazing.
 
-Tithi : yes...
+*tithi look up from arrancing flower*
 
-Dipon : wow thats great. my name is Dipon I live here so see you around sometime!
+Tithi : ...Yeah.
 
-Tithi : Sure, nice to meet you!
+Dipon : Well, I'm glad you opened it. This street seriously needed more color.
 
+Tithi : ... (she dont know what to say)
 
-(customer 1 leaves with happy mood)
+Dipon : ..Oh! I'm Dipon, by the way.
+
+Tithi : Tithi.
+
+Dipon : Nice to meet you, Tithi,I'll definitely come back. Maybe I'll finally learn the names of flowers
+
+Tithi : ... 
+
+Dipon : ...See you.
+
 
 {fades to black}
 
-(customer 3 comes with intention of buying something he seems busy)
+(Farhan comes with intention of buying something he seems busy)
 
 
-Farhan : Hey quickly give me a few rose.
+Farhan : Sorry, I'm in a hurry.
 
+Farhan :Can I get three of those red roses?
 
-(you pickes up the flower from the pot and give it to him)
+*you pickes up the flowers* and gives it to them*
 
-{find roses to give it to him}
+Tithi : That'll be 250 taka
 
+Farhan : Thanks. Nice shop by the way.
 
-Tithi : That would be 250tk.
+*he walks away before you can answer*
 
+{fades to black}
+(its eveing and time to close the shop and go back to the home.)
+(while going back you saw some stranger in the alley)
 
-(Farhan hands you the money and leaves swiftly)
+??? :Hey.
 
-{fades to black and its evening now}
+(Tithi stops and dont answer she is already tired)
 
-(you return to home safely and crashes into bed)
+Tithi:...
 
-
-
-Day 4 [Again showing the date to indicate that she is settling in]
-
-
-(you wake up and saw you got nothing to eat so you head out for grocery shopping)
-
-{you think "there is no food in the fridge you should go to the grocery shop to buy something"}
-
-(you go to the shop the shop is open and pick up some rice,eggs,potatoes and bread)
-
-(you go up to the )
-
-
-Farhan : scans and tells that "that would be 150tk"
-
-Tithi : (pays the bill)
-
-Farhan : Ah HEY! wait a minute. do you recognize me i went to your shop a few days ago.
-
-Tithi : Oh yeah i remember you were ih a hurry for some reason.
-
-Farhan : yeah sorry about that it was that i was proposing to my Crush. Her name is Nila.
-
-Tithi : Good for you.
-
-Farhan : uhh im Farhan. may i get to know your name? 
-
-Tithi : It's Tithi.
-
-Farhan : thats a nice name! well you seems busy, so see you later
-
-Tithi : yeah, thank you.
-
-
-(you continue to your shop)
-
-(you see someone standing in front of your shop)
-
-
-Tithi : Good morning, how can i help you?
-
-Arnob : I was waiting for you to open the shop to buy some flowers.
-
-Tithi : okay im here. what are you looking for?
-
-Arnob : (takes a loot at the flowers) mmmm okay whats you favourite one ?
-
-Tithi : I dont know, just tell me which one you want.
-
-Arnob : Then give me couple of lilies.
-
-Tithi : (get the lilies from the pots and gives it to him) that would be 400tk for you.
-
-Arnob : ah okay (gives you the money) see you around!
-
-
-(Arnob leaves)
-
-{fades black}
-
-(you see a cat and decide to pet it!)
-
-(you see someone comming to your shop while you ar eout of your shop you meet them at the front of your shop)
-
-
-
-
-Dorothy : Hey how are you doing. I saw you recently moved in here. so though to check your shop out.
-
-Tithi : yeah? 
-
-Dorothy : what do you mean by "yeah?" ? huh? anyways tell me why you moved in this small town?
-
-Tithi : (feeling a sense of trust you seems tells her about youself a bit to her). Its just that I
-        like this quite town. and besiides i have no where to go.
-
-Dorothy : Huh? what do you mean by that? where are you originally from?
-
-Tithi : I really dont want to talk about that much really.
-
-Dorothy : ah okay thats fine. I also moved in here because its quite place here. Have you met any person
-         around here ?
-
-Tithi : yeah met a few person they seems good.
-
-Dorothy : I know right? we im friends with a lot of cool people in here too! you should visit my cafe
-         around the corner of the park. I might treat you with some drinks.
-
-Tithi :yeah sure i will do. thanks!
-
-Dorothy: Oh and im Dororthy. you ?
-
-Tithi :Tithi
-
-Dorothy: Alright then i will to go back. see you around.
-
-
-(you didnt bother to go to her cafe and returned to home)
-
-
-
-
-Day 6 [again will show with date]
-
-
-(at the morning you see Dorothy texted you saying "hey why didnt you come i was keeping my shop open for long time waiting for you, well whatever. im inviting my friends you have to some this evening.)
-
-
-(you started you started walking toward the shop while on your way a stranger was stanign in the alleyway)
-
-
-??? : hey are you new here?
+???: You're new around here, aren't you?"
 
 Tithi: ...
 
+???: ...
 
-(you didnt talk with that stranger)
+*you avoid him and reach home*
 
+(upor reaching the reception desk rokeya waits for you there)
 
-{fades black and its evening}
+Rokeya : Oh, Tithi. You're back.
 
-(you get a message from Dorothy "saying hey Tithi are you still comming?" you replied "yes") 
+Titihi : *nods* Yeah.
 
-(you go to her cafe where there was Arnob, Dipon ,Dorothy And Nila)
+Rokeya : First day's over, huh?
 
+Tithi : ...Yeah.
 
-// idk about this part much maybe they have a coverstion but i think im gonna just make a cut scene where at the start everyone greets tithi and it fades to black then it is shown that everyone is saying goodbyt to everyone.
+Rokeya : Come here for a few minutes.
 
+*you get closer to her desk*
 
-(after saying good byes it turns out you aand arnob is going in the same way)
+Rokeya : Tea?
 
+Tithi : ...I like coffee.
 
-Arnob : Looks like we are heading the same direction.
+Rokeya: I remember that. but try it i made it differently.
 
-Tithi : Yeah.
+*she gives you a cup of tea!*
 
-Arnob : Did you saw news about one girl getting kidnapped in our neighboring town? 
+Rokeya : So... how was your first day?
 
-Tithi : No i dont follow any news.
+Tithi : It was... okay.
 
-Arnob : anyways you shouldnt walk late at night alone.
+Rokeya : Any customers?
 
-Tithi : yeah i will try.
+Tithi : A few
 
+Rokeya : That's a good start.
 
-(you reach your home)
+Rokeya : Im proud of you, you know.
 
+Tithi : ... Thank you.
 
-Arnob : Alright so this is your apartment?
+{fades black and you are in the entrance of you room outside}
 
-Tithi : yeah it works for now.
+*you noticed that there is no food in the kitchen*
+*you go up to the bed and sleep*
 
-Arnob : Alright take care.
 
+Day 2 {starts with the alarm ringig}
+*alarm rings* 
+*you get up and thought "i should get somthing for myself before i start my day*
+*you go to the grocery shop*
 
-(you crash on your ber for the night)
+[if you go to farhan without getting anything in the cart he says "are you looking for anything spcific?"]
 
+*you pick up bread, eggs, milk,*
+*you go to the counter to check out*
 
-Day 9 [yes i will show with date]
+Farhan : That will be 230tk
 
+*you start to leave*
 
-[a short event]
+Farhan : ...Hey.
 
-(while coming back from the shop in the evening the stranger from earlier seemed to follow you but we went inside the alleyway you dont think of it much)
+Tithi : ...yes?
 
+Farhan :Weren't you the one who opened the flower shop a few days ago?
 
-Day 10 [yes i will show with date]
+Tithi : ...Yeah.
 
+Farhan : I bought some roses.
 
-(you are at your shop nila is there too)
+Tithi : I remember.
 
+Farhan : Sorry I couldn't stay.
 
-Nila : Today is my boyfriends Birthday Im gonna need some flowers. Which one will be the best ?
+Tithi : Its  fine.
 
-Tithi : I dont know much.
+Farhan : I never caught your name.
 
-Nila : Oh come on you at least had a crush.
+Tithi : Tithi.
 
-Tithi :No, i never had any.
+*hands over the grocery bag*
 
-Nila : do you have any now? 
+(you were leaving when someone came to the counter cutting farhan off)
 
-Tithi :I dont know.
+*Dorothy walks up to the counter*
 
-Nila : You are no fun then. just give me the flowers
+Dorothy : Morning, Farhan!
 
-Tithi : (you give her the bunch of lilies)
+Farhan : Morning!
 
-Nila :Why lilies?
+*she looks toward you*
 
-Tithi :I dont know i like them i guess.
+Dorothy : Oh!
 
-Nila :well whatever. have fun! and dont worry you will get get someone, someday!
+Dorothy : ...You're the girl who opened the flower shop!
 
-Tithi :Yeah yeah, have fun.
+Tithi : ...oh
 
+Dorothy : I run the café near the park.
 
-(later that day after returning home you saw arnob messaged you asking "hey do you wanna gram drinks togather at the cafe?" "you agreed thinking that you guys are just gonna hand out)
+Dorothy : I wanted to stop by on your opening day...
 
+Dorothy : ...but cafés don't exactly run themselves.
 
-Day 11 
+Dorothy : So... sorry about that.
 
+Tithi : ...Its okay.
 
-(its evening and you are getting out of the shop and stopped by the cafe)
+Dorothy : I'm Dorothy.you?
 
+Tithi: Tithi
 
-Arnob : HEY you finnaly arrived!
+Dorothy : Nice to finally meet you.
 
-Tithi : Yeah it looks like that.
+Tithi : nice to meet you too.
 
-Arnob : well come sit here. what do you want to drink?
+Dorothy : If you ever have some free time...drop by my café.
 
-Tithi : [You will have a choise to chose drinks between different drink options].And where is everyone else.
+Dorothy : The first coffee's on me. Think of it as my apology for missing your opening day.
 
-Arnob : they are around but i really need to tell you something.
 
-Tithi : Well what is it?
+Tithi : ...I'll see. Thanks.
 
-Arnob : The think is that i really seems to like you.
+*you leave the store*
+{fades black and you are in your shop closing the shop}
+*you leave to get home but decided to drop by the park to see whats up*
 
-Tithi : So what? 
-
-Arnob : -_-   im asking you on a date. would you go to a date with me ?
-
-Tithi : [here there will be option to accept or decline] 
-
-
-(You talked for a bit and he walks you home)
-
-
-Day 13 
-
-(you are at your shop while you received a message from arnob "Hey do you wanna go on that date tomorrow" you replied in affirmative {insert more coversation here})
-
-
-Day 14 
-
-(you get ready with a good dress [the saree she is wearing in my pfp] and started to head for the cafe on your way out you in front of the alleyway you heart some one asking for help you decided to go in a bit to see if the stranger from earlier was asking for help) 
-(it turns out he was asking for help. but now he is suddenly behind you and started to corner you you see a knife in a trash bin. swiftly you took the knife. the stranger starts to mock you but suddenly you strike him and you saree gets drenched in blood)
-(you carefully get out of there trying to not let anyone see you. you reach you room.)
-
-
-Day 15
-
-// honestly im tired but here is the shorted version 
-
-
-(you dont get out of the home the whole day as if you childhood trauma is coming back. you get on the roof ready to end it all suddenly you get a phone call [if you accept the date you get a phone call from arnob] [if you didnt you dont get a phone call] and jump off)
 
 
 
