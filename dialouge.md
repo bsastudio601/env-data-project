@@ -124,7 +124,8 @@ stalker : just and weirlg looking guy around in his 30s
 
 # Dialouges
 
-Day1 [Will just show an alarm ringing]
+## incident 1
+[Will just show an alarm ringing with date]
 
 (you wake up at the morning. go to the bathroom. make your breakfast and climb down the stair and meet the landlord)
 
@@ -265,7 +266,8 @@ Tithi : ... Thank you.
 *you go up to the bed and sleep*
 
 
-Day 2 {starts with the alarm ringig}
+## incident 2
+{starts with the alarm ringig with date}
 *alarm rings* 
 *you get up and thought "i should get somthing for myself before i start my day*
 *you go to the grocery shop*
@@ -343,8 +345,12 @@ Dorothy : The first coffee's on me. Think of it as my apology for missing your o
 Tithi : ...I'll see. Thanks.
 
 *you leave the store*
-{fades black and you are in your shop closing the shop}
-*you leave to get home but decided to drop by the park to see whats up*
+(you go to home and it fades to black)
+
+## incident 3
+{shos the date it turns out to be a few ways later of meeting dorothy}
+
+*you leave shop to get home but decided to drop by the park to see whats up*
 
 
 (if you decide to visit the park)
@@ -473,12 +479,16 @@ Rokeya : Sleep well, dear.
 
 Tithi : ...Good night.
 
+## incident 4
+
 (its the next da as usual she wakes up and goes to the shop. she also slips a small knife with her from the kitchen because its winter and the days are getting shorter and she is getting worried about the stranger she is seeing for the past week)
 
 //// here is what the next dialouge is gonna be about. in here she basically gets followed by the stranger for a bit. 
 maybe arnob comes to her shop this day?
 she doesnt think of it that much.
 getting back home rokeya askes her if anything is wrong but she hesitates to tell her the incident.
+
+## incident 5
 //// the next day while returning home she visites the park in evening after hearing the cat meowing from the alley think it was the cat she was seeing in the part she tries to find it going a bit inside the alley. suddenly the stranger appears behind her closing into her {insert dialouge here} crahsing out she pulls out the knife she is keeping with herself {insert dialouge} and strikes him she is now drenched in blood. she carefully goes to home being careful to not let anyone see her. heaching her room she break down and goes to roof top then suddenly her phone rings and it fades to black. [eend of chapter 1]  
 
 // the chapter 2 is gonna start like arnob calls her wanting to hand out with her
