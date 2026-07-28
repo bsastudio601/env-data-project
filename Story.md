@@ -111,7 +111,7 @@ Tithi: Thanks.
 
 {Fades to black}
 
-It’s evening, the flowers are starting to dry up but there isn’t many so it’s a great first day.
+It's evening. The flowers are starting to dry up but you had your first sale and you got some experience so It's a great first day.
 
 You walk along the same sidewalks, trying to get familiar with them.
 
